@@ -57,6 +57,10 @@ src(s0).scale(1,-1,1).out()
 ```
 
 ```hydra
+src(s0).kaleid(4).out()
+```
+
+```hydra
 src(s0).scrollX(0,0.1).out()
 ```
 

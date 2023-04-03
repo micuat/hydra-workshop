@@ -26,7 +26,7 @@ Loie Fuller, an American dancer, produced dance performances with an extended sk
 ![merce overlaid](https://cdn.glitch.global/c807e734-24f4-4e6f-851f-4db3577239b5/merce.webp?v=1680522860260)
 -- https://mubi.com/de/films/merce-by-merce-by-paik
 
-The notion of using digital media for theater culminated with the rise of the Japanese collective Dumb Type founded in 1984.
+<!-- The notion of using digital media for theater culminated with the rise of the Japanese collective Dumb Type founded in 1984. -->
 
 <!-- ![dumb type](https://cdn.glitch.global/c807e734-24f4-4e6f-851f-4db3577239b5/dumbtype.jpg?v=1680523029011)
 -- https://www.realtokyo.co.jp/en/exhibition/dumb-type-actions-reflections-2019-11-16-2020-2-16-museum-of-contemporary-art-tokyo/
@@ -55,9 +55,9 @@ Hydra
 Hydra is an analog-synth-like coding environment for real-time visuals. It is created by [Olivia Jack](https://ojack.xyz/).
  and is [open-source](https://github.com/hydra-synth). You can simply open [Hydra editor](https://hydra.ojack.xyz) to start coding.
 
-![hydra](https://cdn.glitch.com/964dd9af-184d-4113-bc98-3f979513236a%2Fhydra-photo.jpg)
+<!-- ![hydra](https://cdn.glitch.com/964dd9af-184d-4113-bc98-3f979513236a%2Fhydra-photo.jpg)
 
-Taking the concept from Greco-Roman mythology, Hydra of Lerna (the beast with many heads that for every head that is cut off, two more come out) as well as the animal Hydra (fresh-water organisms that have many heads with regenerative properties). The idea is that things are constantly being generated and regenerated around the software: the community continuously contributes various knowledge by people around the world. Not only a software to produce images/video, but it turns out to be a creative engine for the production and reflection of art and the ways to interact (symbolically, materially and technically) with each other and with the environment. 
+Taking the concept from Greco-Roman mythology, Hydra of Lerna (the beast with many heads that for every head that is cut off, two more come out) as well as the animal Hydra (fresh-water organisms that have many heads with regenerative properties). The idea is that things are constantly being generated and regenerated around the software: the community continuously contributes various knowledge by people around the world. Not only a software to produce images/video, but it turns out to be a creative engine for the production and reflection of art and the ways to interact (symbolically, materially and technically) with each other and with the environment.  -->
 
 ![p2p models](https://cdn.glitch.global/c807e734-24f4-4e6f-851f-4db3577239b5/p2p.webp?v=1680524231018)
 
