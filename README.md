@@ -12,12 +12,12 @@ For the workshop participants, please bring...
 Table of Contents
 --------
 
-Understanding Hydra:
-
 * [Code of Conduct](coc)
 * [Introduction](introduction)
 * [Run](run)
 * [Webcam](webcam)
+* [Sources](sources)
+* [Practice](practice)
 
 License
 --------

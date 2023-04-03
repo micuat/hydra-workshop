@@ -286,6 +286,7 @@ class CodeApp extends Torus.StyledComponent {
       box-sizing: border-box;
       position: relative;
       width: 100%;
+      height: 100vh;
       margin: 100px 0;
       display: flex;
       flex-direction: row;
@@ -326,11 +327,11 @@ class CodeApp extends Torus.StyledComponent {
       </div>`;
     }
     return jdom`
-    <div onclick=${ this.activate }>
+    <div >
       ${ placeholder }
       ${ this.cmApp.node }
     </div>
-    `;
+    `;//onclick=${ this.activate }
   }
 }
 
