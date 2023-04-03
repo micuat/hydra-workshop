@@ -58,6 +58,7 @@ Hydra is an analog-synth-like coding environment for real-time visuals. It is cr
 
 Taking the concept from Greco-Roman mythology, Hydra of Lerna (the beast with many heads that for every head that is cut off, two more come out) as well as the animal Hydra (fresh-water organisms that have many heads with regenerative properties). The idea is that things are constantly being generated and regenerated around the software: the community continuously contributes various knowledge by people around the world. Not only a software to produce images/video, but it turns out to be a creative engine for the production and reflection of art and the ways to interact (symbolically, materially and technically) with each other and with the environment. 
 
+![p2p models](https://cdn.glitch.global/c807e734-24f4-4e6f-851f-4db3577239b5/p2p.webp?v=1680524231018)
 
 ![modular synth](https://cdn.glitch.com/964dd9af-184d-4113-bc98-3f979513236a%2Fsandin.png)
 
@@ -68,11 +69,12 @@ We interconnect functions to generate different types of images.
 In this way, we add or subtract pixels in an intuitive way to generate changes in contrast, brightness, hue, saturation, color and even digital feedback. 
 
 
+Let's begin!
+--------
 
+Open the [next page](run)...
 
-
-
-There are a few resources besides this book:
+There are a few more resources besides this tutorial:
 
 * [The new official documentation](https://hydra.ojack.xyz/docs/#/) is a good resource to get started,
 * [Hydra Functions](https://hydra.ojack.xyz/functions/) is an interactive webpage to see functions and its usages,
