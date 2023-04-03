@@ -255,12 +255,12 @@ class CodeApp extends Torus.StyledComponent {
     this.placeholder.className = "placeholder"
     
     this.activate = () => {
-      hush();
-      solid(0, 0, 0, 0).out(o0);
-      solid(0, 0, 0, 0).out(o1);
-      solid(0, 0, 0, 0).out(o2);
-      solid(0, 0, 0, 0).out(o3);
-      render(o0);
+      // hush();
+      // solid(0, 0, 0, 0).out(o0);
+      // solid(0, 0, 0, 0).out(o1);
+      // solid(0, 0, 0, 0).out(o2);
+      // solid(0, 0, 0, 0).out(o3);
+      // render(o0);
       setTimeout(() => {
         this.cmApp.commands.evalAll();
       }, 60);
