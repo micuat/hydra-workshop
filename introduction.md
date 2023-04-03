@@ -28,8 +28,9 @@ Loie Fuller, an American dancer, produced dance performances with an extended sk
 
 The notion of using digital media for theater culminated with the rise of the Japanese collective Dumb Type founded in 1984.
 
-![dumb type](https://cdn.glitch.global/c807e734-24f4-4e6f-851f-4db3577239b5/dumbtype.jpg?v=1680523029011)
+<!-- ![dumb type](https://cdn.glitch.global/c807e734-24f4-4e6f-851f-4db3577239b5/dumbtype.jpg?v=1680523029011)
 -- https://www.realtokyo.co.jp/en/exhibition/dumb-type-actions-reflections-2019-11-16-2020-2-16-museum-of-contemporary-art-tokyo/
+ -->
 
 Hito Steyerl’s famous video piece How Not to Be Seen: A F--king Didactic Educational .MOV File (2013)
 
