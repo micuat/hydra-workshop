@@ -6,7 +6,7 @@ This Code of Conduct is adapted from [XOXO Code of Conduct](https://xoxofest.com
 
 This policy is a "living" document, and subject to refinement and expansion in the future. Last updated 3. April, 2023.
 
-Everyone participating in this workshop—including, but not limited to the Hauptsache Frei Festival—is required to agree to the following Code of Conduct. This includes all attendees, speakers, performers, patrons (sponsors), volunteers, and staff.
+Everyone participating in this workshop—including, but not limited to the Hauptsache Frei Festival—is required to agree to the following Code of Conduct. This includes all attendees, lecturer, patrons (sponsors), volunteers, and staff.
 
 This workshop is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion. We do not tolerate harassment of participants in any form.
 
@@ -43,6 +43,7 @@ The workshop prioritizes marginalized people’s safety over privileged people�
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
 Consequences
+--------
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
@@ -50,10 +51,13 @@ If a participant engages in harassing behavior, the workshop may take any action
 Reporting and Enforcement
 
 If you are being harassed by a member of the workshop participants, notice that someone else is being harassed, or have any other concerns, please contact us immediately via email at mail@naotohieda.com.
-Festival
 
-Please contact any member of our production, volunteer or security team. Our team can be identified by their “Staff” t-shirts, and will be trained in how to address and report any incidents that attendees bring to their attention.
-Slack
+Festival
+--------
+
+Please contact any member of our production, volunteer or security team. Our team will be trained in how to address and report any incidents that attendees bring to their attention.
+
+<!-- Slack -->
 
 <!-- Please contact an admin or moderator (designated with a red diamond emoji “♦️” in their status) via direct message. -->
 
@@ -65,7 +69,7 @@ All reports will be handled in the strictest confidence. We will respond as prom
 Thanks
 --------
 
-This policy is an adaptation of [XOXO Code of Conduct](https://xoxofest.com/guide/conduct). The following text is from the original CoC.
+This policy is an adaptation of [XOXO Code of Conduct](https://xoxofest.com/guide/conduct). The following acknowledgment is from the original CoC.
 
 The policy was based on resources provided by [Geek Feminism](https://geekfeminism.org/about/code-of-conduct/), and borrows heavily from similar open source policies authored by [JSConf AU](https://2018.jsconfau.com/code-of-conduct) and [Django](https://www.djangoproject.com/conduct/).
 

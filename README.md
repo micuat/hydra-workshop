@@ -7,6 +7,7 @@ Preface
 
 Hydra is an analog-synth-like coding environment for real-time visuals. It is created by Olivia Jack and is [open-source](https://github.com/hydra-synth). You can simply open [Hydra editor](https://hydra.ojack.xyz) to start coding.
 
+For the workshop participants, please bring...
 
 Table of Contents
 --------
