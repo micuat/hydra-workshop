@@ -49,6 +49,7 @@ Some artists took a challenge to connect such multimodal experiences to networke
 -- https://distantmovements.tumblr.com/post/681051349272723456/dm24-une-danse-de-l%C3%A9coute
 
 
+
 Hydra
 --------
 
@@ -68,6 +69,18 @@ Taking the concept from Greco-Roman mythology, Hydra of Lerna (the beast with ma
 We interconnect functions to generate different types of images.
 
 In this way, we add or subtract pixels in an intuitive way to generate changes in contrast, brightness, hue, saturation, color and even digital feedback. 
+
+
+Examples
+--------
+
+[Jorge](https://jorgeguevara.myportfolio.com/) and Naoto
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ASs3WP7HVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Flor](https://flordefuego.github.io/) and Naoto
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EYkHq8Mps3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 Let's begin!
