@@ -42,9 +42,9 @@ img: https://beyondresolution.info/A-Vernacular-of-File-Formats
 
 Some artists took a challenge to connect such multimodal experiences to networked spaces: I Move In Decades (2011) by Ellen Pearlman, which combines audiovisual streaming via Skype and motion tracking among Hong Kong, Canada and New Zealand. Collective projects Distant Feeling(s) and Distant Movements (2015-) by Annie Abrahams, Lisa Parra, Daniel Pinheiro, and Muriel Piqué are experimental networked performances on a video conference platform (Zoom) that are open to public and guide participants to contemplate or move together while eyes closed for 15 minutes, resulting in a collective somatic experience.
 
-![ellen](https://cdn.glitch.global/c807e734-24f4-4e6f-851f-4db3577239b5/ellen.jpg?v=1680523388986)
+<!-- ![ellen](https://cdn.glitch.global/c807e734-24f4-4e6f-851f-4db3577239b5/ellen.jpg?v=1680523388986)
 img: https://thetheatretimes.com/ellen-pearlman-brain-opera-telematic-performance-and-decoding-dreams/
-
+ -->
 ![annie](https://cdn.glitch.global/c807e734-24f4-4e6f-851f-4db3577239b5/dm.png?v=1680523440252)
 img: https://distantmovements.tumblr.com/post/681051349272723456/dm24-une-danse-de-l%C3%A9coute
 
