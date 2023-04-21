@@ -1,4 +1,4 @@
-Code of Conduct
+💖Code of Conduct
 =========
 
 This Code of Conduct is adapted from [XOXO Code of Conduct](https://xoxofest.com/guide/conduct).

@@ -1,4 +1,4 @@
-Introduction
+🚂Introduction
 ========
 
 ![naoto](https://cdn.glitch.com/964dd9af-184d-4113-bc98-3f979513236a%2F135304966_3971202952891460_6745895900970356651_o.jpg?v=1610641657001)
@@ -88,9 +88,3 @@ Let's begin!
 
 Open the [next page](run)...
 
-There are a few more resources besides this tutorial:
-
-* [The new official documentation](https://hydra.ojack.xyz/docs/#/) is a good resource to get started,
-* [Hydra Functions](https://hydra.ojack.xyz/functions/) is an interactive webpage to see functions and its usages,
-* [Hydra Garden](https://hydra.ojack.xyz/garden/) is a place for inspirations,
-* and [Hydra Patterns on Twitter](https://twitter.com/hydra_patterns) is a way to find sketches from other artists.

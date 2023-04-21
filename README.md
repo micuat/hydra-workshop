@@ -12,12 +12,14 @@ Here is a list of things that I would like you to bring:
 
 ## Table of Contents
 
-- [Code of Conduct](coc)
-- [Introduction](introduction)
-- [Run](run)
-- [Webcam](webcam)
-- [Sources](sources)
-- [Practice](practice)
+
+* [💖Code of Conduct](coc)
+* [🚂Introduction](introduction)
+* [🏃Run](run)
+* [🎥Webcam](webcam)
+* [🌈Sources](sources)
+* [🌊Practice](practice)
+* [🦋Next Steps](next)
 
 ## License
 
