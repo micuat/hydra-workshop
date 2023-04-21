@@ -215,25 +215,26 @@ class CodeMirrorApp extends Torus.StyledComponent {
     `;
   }
   compose() {
+//         <button title="run" onclick=${ () => {
+//           this.commands.evalAll();
+//         } }>▶</>
+
+//         <button title="reset code" onclick="${
+//           () => this.resetCode()
+//         }">
+//           💔
+//         </button>
+//         <button title="open in editor" onclick="${
+//           () => window.open(`https://hydra.ojack.xyz/?code=${btoa(
+//                 encodeURIComponent(this.getLastCode())
+//               )}`)
+//         }">
+//           🚀
+//         </button>
+
     return jdom`
     <div>
       <div class="editor-menu">
-        <button title="run" onclick=${ () => {
-          this.commands.evalAll();
-        } }>▶</>
-
-        <button title="reset code" onclick="${
-          () => this.resetCode()
-        }">
-          💔
-        </button>
-        <button title="open in editor" onclick="${
-          () => window.open(`https://hydra.ojack.xyz/?code=${btoa(
-                encodeURIComponent(this.getLastCode())
-              )}`)
-        }">
-          🚀
-        </button>
       </div>
       <div class="editor-container">
         ${this.el}
