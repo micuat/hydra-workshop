@@ -80,3 +80,5 @@ Combination
 ```hydra
 src(s0).repeat(2,2).color(1,-1,1).out()
 ```
+
+[next: sources](sources)

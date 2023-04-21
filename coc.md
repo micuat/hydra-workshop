@@ -76,3 +76,6 @@ The policy was based on resources provided by [Geek Feminism](https://geekfemini
 Thank you also to [Ashe Dryden](https://www.ashedryden.com/) and [Karolina Szczur](https://thefox.is/) for their advice and support.
 
 This policy is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license, and is [available on GitHub](https://github.com/xoxo/conduct/). We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
+
+
+[next: introduction](introduction)
