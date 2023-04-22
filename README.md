@@ -10,6 +10,10 @@ Here is a list of things that I would like you to bring:
 - props to work with - it can be anything, but if you need inspiration, here's a video of a workshop I did last year: https://www.youtube.com/watch?v=hJ7RQ9wTC5Y
 - webcam (if you have one)
 
+## Collective notebook
+
+https://pad.riseup.net/p/hydra-hauptsache-frei-keep
+
 ## Table of Contents
 
 
