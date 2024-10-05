@@ -6,7 +6,7 @@ This Code of Conduct is adapted from [XOXO Code of Conduct](https://xoxofest.com
 
 This policy is a "living" document, and subject to refinement and expansion in the future. Last updated 3. April, 2023.
 
-Everyone participating in this workshop—including, but not limited to the Hauptsache Frei Festival—is required to agree to the following Code of Conduct. This includes all attendees, lecturer, patrons (sponsors), volunteers, and staff.
+Everyone participating in this workshop—including, but not limited to the Aavistus Festival—is required to agree to the following Code of Conduct. This includes all attendees, lecturer, patrons (sponsors), volunteers, and staff.
 
 This workshop is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion. We do not tolerate harassment of participants in any form.
 
