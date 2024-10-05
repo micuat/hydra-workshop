@@ -7,8 +7,6 @@ Hydra is an analog-synth-like coding environment for real-time visuals. It is cr
 Here is a list of things that I would like you to bring:
 
 - laptop (windows, mac, or linux) and power adapter
-- props to work with - it can be anything, but if you need inspiration, here's a video of a workshop I did last in 2022: https://www.youtube.com/watch?v=hJ7RQ9wTC5Y
-- webcam (if you have one)
 
 ## Collective notebook
 
