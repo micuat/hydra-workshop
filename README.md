@@ -10,7 +10,7 @@ Here is a list of things that I would like you to bring:
 
 ## Collective notebook
 
-log can be found [here](shared-log) (copied from https://pad.riseup.net/p/hydra-aavistus-keep)
+https://pad.riseup.net/p/hydra-workshop-2025-keep
 
 ## Table of Contents
 
